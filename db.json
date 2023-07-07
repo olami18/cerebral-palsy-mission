@@ -1,19 +1,33 @@
 {
-    "services": [
+    "contactMessages": [],
+    "inspirationStories": [
       {
         "id": 1,
-        "title": "Service 1",
-        "description": "This is the description for Service 1."
+        "category": "Artists",
+        "title": "Story 1",
+        "image": "story1.jpg",
+        "description": "This is the description of Story 1."
       },
       {
         "id": 2,
-        "title": "Service 2",
-        "description": "This is the description for Service 2."
+        "category": "Athletes",
+        "title": "Story 2",
+        "image": "story2.jpg",
+        "description": "This is the description of Story 2."
       },
       {
         "id": 3,
-        "title": "Service 3",
-        "description": "This is the description for Service 3."
+        "category": "Children",
+        "title": "Story 3",
+        "image": "story3.jpg",
+        "description": "This is the description of Story 3."
+      },
+      {
+        "id": 4,
+        "category": "Adults",
+        "title": "Story 4",
+        "image": "story4.jpg",
+        "description": "This is the description of Story 4."
       }
     ]
   }
